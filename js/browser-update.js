@@ -7,7 +7,6 @@ var $buoop = {
     reminderClosed: 10,
     unsupported:true,
     style:"bottom",
-    test: true,
     api:2021.01
 };
 
