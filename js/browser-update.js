@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&dn=expat.txt MIT-License
 var $buoop = {
     required:{
         e:0,f:0,o:0,s:0,c:0
@@ -21,3 +22,4 @@ try {
 } catch(e){
     window.attachEvent("onload", $buo_f)
 }
+//@license-end
